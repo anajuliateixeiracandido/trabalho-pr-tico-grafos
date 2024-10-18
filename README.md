@@ -1,1 +1,1 @@
-# trabalho-pr-tico-grafos
+# trabalho-prático-grafos
